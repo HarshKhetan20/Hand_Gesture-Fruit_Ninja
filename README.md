@@ -98,7 +98,7 @@ Pull requests are welcome! Feel free to fork, improve gestures, add features, or
 
 ## 📜 License
 
-MIT License. Use freely with credit 🙌
+This project is licensed under the [MIT License](LICENSE). 🙌
 
 ---
 
